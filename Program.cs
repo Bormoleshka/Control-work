@@ -1,4 +1,4 @@
-﻿
+﻿//Task1.
             Random rand = new Random();
            int count=0;
            
